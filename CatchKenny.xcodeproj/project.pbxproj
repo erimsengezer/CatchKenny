@@ -15,6 +15,7 @@
 		E51A583D22C502C6002660C8 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E51A583B22C502C6002660C8 /* LaunchScreen.storyboard */; };
 		E51A584822C502C6002660C8 /* CatchKennyTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E51A584722C502C6002660C8 /* CatchKennyTests.swift */; };
 		E51A585322C502C6002660C8 /* CatchKennyUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E51A585222C502C6002660C8 /* CatchKennyUITests.swift */; };
+		E51A586122C502DD002660C8 /* Kenny.png in Resources */ = {isa = PBXBuildFile; fileRef = E51A586022C502DD002660C8 /* Kenny.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		E51A584E22C502C6002660C8 /* CatchKennyUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CatchKennyUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		E51A585222C502C6002660C8 /* CatchKennyUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CatchKennyUITests.swift; sourceTree = "<group>"; };
 		E51A585422C502C6002660C8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E51A586022C502DD002660C8 /* Kenny.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Kenny.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +101,7 @@
 		E51A582E22C502C5002660C8 /* CatchKenny */ = {
 			isa = PBXGroup;
 			children = (
+				E51A586022C502DD002660C8 /* Kenny.png */,
 				E51A582F22C502C5002660C8 /* AppDelegate.swift */,
 				E51A583122C502C5002660C8 /* ViewController.swift */,
 				E51A583322C502C5002660C8 /* Main.storyboard */,
@@ -233,6 +236,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				E51A583D22C502C6002660C8 /* LaunchScreen.storyboard in Resources */,
+				E51A586122C502DD002660C8 /* Kenny.png in Resources */,
 				E51A583A22C502C6002660C8 /* Assets.xcassets in Resources */,
 				E51A583522C502C5002660C8 /* Main.storyboard in Resources */,
 			);
